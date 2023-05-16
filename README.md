@@ -1,3 +1,5 @@
+**This fork is used to fix an issue in this package see https://github.com/ddev/ddev/pull/4866. It can be deleted once the fix is released in the upstream.**
+
 <p align="center">
   <a href="https://amplitude.com" target="_blank" align="center">
     <img src="https://static.amplitude.com/lightning/46c85bfd91905de8047f1ee65c7c93d6fa9ee6ea/static/media/amplitude-logo-with-text.4fb9e463.svg" width="280">
