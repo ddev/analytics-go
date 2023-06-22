@@ -1,4 +1,4 @@
-**This fork is used to fix an issue in this package see https://github.com/ddev/ddev/pull/4866. It can be deleted once the fix is released in the upstream.**
+**This fork is used to fix an issue in this package see https://github.com/ddev/ddev/pull/4866. It can be deleted once the fix is released in the upstream.** See https://github.com/amplitude/analytics-go/pull/56 for the upstream PR.
 
 <p align="center">
   <a href="https://amplitude.com" target="_blank" align="center">
